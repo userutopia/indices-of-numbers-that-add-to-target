@@ -1,1 +1,1 @@
-# indices-of-numbers-that-add-to-target
+# Indices-of-numbers-that-add-to-target
